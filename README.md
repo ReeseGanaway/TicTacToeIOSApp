@@ -6,4 +6,4 @@ This application is a basic basic 2 player Tic Tac Toe game for IOS. Tic Tac Toe
 
 
 <h3>Technologies used</h3>
-I made use of xcode to design the app, which was written in the Swift language with a Storyboard interface. This is my first attempt at designing an IOS app, so the above technologies were selected to allow for a beginner friendly learning experience.
+I made use of Xcode to design the app, which was written in the Swift language with a Storyboard interface. This is my first attempt at designing an IOS app, so the above technologies were selected to allow for a beginner friendly learning experience.
